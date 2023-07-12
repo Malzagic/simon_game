@@ -139,11 +139,6 @@ function gameOver() {
     onPress.isClicked = true;
     onPress.randomColor = '';
     onPress.count = 1;
-    loopObject.time = 900;
-    loopObject.loop = 3;
-    loopObject.title = 'Game is about to begin in...';
-    loopObject.level = 'Level';
-    loopObject.startGame = true;
     started = false;
 
 
